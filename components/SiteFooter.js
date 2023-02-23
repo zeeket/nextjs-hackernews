@@ -12,6 +12,7 @@ const SiteFooter = () => {
           GitHub
         </a>
       </p>
+      <p>Deployed everywhere!</p>
     </footer>
   );
 }
